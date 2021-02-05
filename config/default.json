@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://che123:che456@udemy-mern-traversy.stjqf.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://che123:che456@udemy-mern-traversy.stjqf.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
