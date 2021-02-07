@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://che123:che456@udemy-mern-traversy.stjqf.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "fe1c9a7734a9b14c8b77",
+    "githubSecret": "008ca41ca0f40c160720c381f9a1aec415b7cbdd "
 }
